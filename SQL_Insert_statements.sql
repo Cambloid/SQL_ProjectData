@@ -1,8 +1,5 @@
 # SQL Insert Statements 
 
-# Noch keine Daten
-
-
 # tbl_Arbeitsplatz
 INSERT INTO `mydb`.`tbl_Arbeitsplatz` (`Id`, `tbl_Maus_tbl_IT_geraet_Id`, `tbl_Monitor_tbl_IT_geraet_Id`, `tbl_PC_tbl_IT_geraet_Id`, `tbl_Tastatur_tbl_IT_geraet_Id`, `tbl_Buero_Id1`) VALUES (1, NULL, NULL, NULL, NULL, NULL);
 INSERT INTO `mydb`.`tbl_Arbeitsplatz` (`Id`, `tbl_Maus_tbl_IT_geraet_Id`, `tbl_Monitor_tbl_IT_geraet_Id`, `tbl_PC_tbl_IT_geraet_Id`, `tbl_Tastatur_tbl_IT_geraet_Id`, `tbl_Buero_Id1`) VALUES (2, NULL, NULL, NULL, NULL, NULL);
